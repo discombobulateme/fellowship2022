@@ -26,6 +26,7 @@
 - [] git checkout <branch name> => changes the branch you are working
 
 ## Step-by-step
+
 1. get newest from main, from main branch: git pull origin main
 2. create a new branch: git checkout -b <new-branch-name>
 3. do the changes
@@ -43,18 +44,26 @@ This is an exercise to learn how to work colaborativelly using git as a version 
 
 You need to add your name and one line about you in alphabetic order.
 
-You will do that in 2 stages: first you will add your name. You never change the master branch! You create a branch, 
-commit your change, push it the remote branch, open a pull request, wait for approval, than you finally merge. 
+You will do that in 2 stages: first you will add your name. You never change the master branch! You create a branch,
+commit your change, push it the remote branch, open a pull request, wait for approval, than you finally merge.
 Second part you will add one paragraph about you.
 
 Before creating a new branch you pull changes from main, make sure you are up to date. Than you repeat the process.
 
 
+### <model> A Full Name
+
+A nice paragraph about something you are proud about yourself.
+
+### Janackeh Blackwell
+
+I am a web developer in Denver & Boulder Colorado passionate about underrepresented communities in tech in my local area. I love to share resources to help folks transition into careers in tech they can get excited about and contributing to projects that matter.
+
 ### <model> Danielle Madry
 I am a mom of 3 and lifelong learner. I love people, technology and reading. In my free time I like to hang with the kiddos,travel and curl up with a nice book.
 
 ### Django Skorupa 
-Designer and photographer
+Photographer and designer, I specialize in client research and interaction, and do darkroom printing in my personal life. My first exhibition is next month! 
 
 Esther Cotton - I once did a 9 hour hike and survived!
 
@@ -62,3 +71,6 @@ Esther Cotton - I once did a 9 hour hike and survived!
 
 ### Rajene Harris
 I live in Washington DC, and love to paint usiing water colors. I also love drawing and creating things digitally. My favorite place to travel is New Orleans, Louisiana. 
+
+
+
